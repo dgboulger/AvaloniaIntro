@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg26990"
+   version="1.1"
+   viewBox="0 0 50 50"
+   height="50mm"
+   width="50mm"
+   sodipodi:docname="cog.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26992"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.025849"
+     inkscape:cx="20.238428"
+     inkscape:cy="101.93257"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g30900" />
+  <defs
+     id="defs26987" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="Rendered Gears"
+       transform="matrix(3.2823168,0,0,3.2003142,24.239193,25.01128)"
+       id="g27995">
+      <g
+         id="g30896"
+         transform="matrix(2.0297308,0,0,2.0297308,-0.05749257,2.3889246)">
+        <g
+           id="g30900"
+           transform="matrix(1.0783267,0,0,1.0783267,-0.01116335,0.09232389)">
+          <path
+             id="path28083"
+             style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8.9;stroke-dasharray:none"
+             inkscape:transform-center-x="0.42718791"
+             inkscape:transform-center-y="-2.8894716"
+             d="M 85.972126 41.395565 C 85.776806 41.429396 85.575329 41.465386 85.368627 41.503509 C 72.139727 43.943362 84.198894 46.233536 73.338679 54.171572 C 62.478465 62.109608 63.957141 49.923925 57.616611 61.787919 C 51.276081 73.651913 60.585224 65.652273 60.020198 79.092416 C 59.455172 92.532557 50.8501 83.779354 56.172488 96.133659 C 61.494876 108.48796 61.044037 96.221365 71.199676 105.04291 C 81.355313 113.86446 69.146865 115.13447 82.124304 118.67604 C 95.101744 122.21761 85.23116 114.92228 98.46006 112.48243 C 111.68896 110.04257 105.0694 120.37933 115.92961 112.44129 C 126.78983 104.50325 114.9318 107.67266 121.27233 95.808662 C 127.61286 83.944668 131.56794 95.563757 132.13297 82.123615 C 132.69799 68.683473 127.78118 79.930899 122.45879 67.576593 C 117.1364 55.222288 128.68731 59.375066 118.53168 50.553519 C 108.37604 41.731973 114.10414 52.587419 101.1267 49.045847 C 88.352031 45.559611 98.277286 39.264202 85.972126 41.395565 z M 88.061555 53.680088 A 26.161865 26.161867 16.657926 0 1 118.23479 75.091744 A 26.161865 26.161867 16.657926 0 1 96.82401 105.26483 A 26.161865 26.161867 16.657926 0 1 66.650048 83.854202 A 26.161865 26.161867 16.657926 0 1 88.061555 53.680088 z "
+             transform="matrix(0.07947034,0.01384515,-0.01349925,0.08150663,-6.1311149,-8.9361526)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

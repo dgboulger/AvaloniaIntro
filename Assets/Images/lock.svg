@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg19223"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="lock.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19225"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.051698"
+     inkscape:cx="45.166249"
+     inkscape:cy="110.69433"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs19220" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g12988"
+       transform="translate(-2.7859552,1.1120434)">
+      <path
+         id="rect12862"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         d="m 8.2282344,17.501014 c -2.460049,0 -4.440556,1.980507 -4.440556,4.440556 v 18.676379 c 0,2.460048 1.980507,4.440556 4.440556,4.440556 H 47.343676 c 2.460048,0 4.440556,-1.980508 4.440556,-4.440556 V 21.94157 c 0,-2.460049 -1.980508,-4.440556 -4.440556,-4.440556 z m 19.5574616,8.456331 c 1.718417,0 3.102137,1.38372 3.102137,3.102136 v 4.440556 c 0,1.718416 -1.38372,3.10162 -3.102137,3.10162 -1.718416,0 -3.101619,-1.383204 -3.101619,-3.10162 v -4.440556 c 0,-1.718416 1.383203,-3.102136 3.101619,-3.102136 z" />
+      <path
+         id="path23399"
+         style="fill:none;stroke:#000000;stroke-width:6.43457;stroke-dasharray:none"
+         d="m 27.786215,5.9346932 a 15.222897,14.798435 0 0 0 -15.22336,14.7985798 15.222897,14.798435 0 0 0 0.02636,0.685746 h 30.40279 A 15.222897,14.798435 0 0 0 43.009055,20.733273 15.222897,14.798435 0 0 0 27.786212,5.9346932 Z" />
+    </g>
+  </g>
+</svg>
